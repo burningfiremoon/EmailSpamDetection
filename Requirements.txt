@@ -1,0 +1,8 @@
+# Install requirements for EmailSpamDetection
+# pip install -r requirements.txt
+config
+imaplib
+email
+regex
+codecs
+string
