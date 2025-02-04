@@ -6,3 +6,4 @@ email
 regex
 codecs
 string
+transformers
